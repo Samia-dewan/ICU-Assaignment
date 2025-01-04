@@ -14,14 +14,18 @@
   }
   .Header-left-content h1 {
     text-align: center;
-    font-size: 55px;
+    font-size: 48px;
   }
   .Header-left-content p {
     text-align: center;
+    font-size: 1.2rem;
   }
   .Header-left-content button {
-    margin: 0px 32%;
+    margin: 0px 30%;
     padding: 1.2rem 2.5rem;
+  }
+  .Header-left-content button a {
+    font-size: 1.2rem;
   }
 }
 
@@ -47,7 +51,7 @@
     text-align: center;
   }
   .Header-left-content button {
-    margin: 0px 32%;
+    margin: 0px 38%;
     padding: 1.2rem 2.5rem;
   }
 }
